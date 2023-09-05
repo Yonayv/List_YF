@@ -1,0 +1,14 @@
+C:\Users\EmilyFixico\source\repos\Lists_YF\Lists_YF\bin\Debug\net6.0\Lists_YF.exe
+C:\Users\EmilyFixico\source\repos\Lists_YF\Lists_YF\bin\Debug\net6.0\Lists_YF.deps.json
+C:\Users\EmilyFixico\source\repos\Lists_YF\Lists_YF\bin\Debug\net6.0\Lists_YF.runtimeconfig.json
+C:\Users\EmilyFixico\source\repos\Lists_YF\Lists_YF\bin\Debug\net6.0\Lists_YF.dll
+C:\Users\EmilyFixico\source\repos\Lists_YF\Lists_YF\bin\Debug\net6.0\Lists_YF.pdb
+C:\Users\EmilyFixico\source\repos\Lists_YF\Lists_YF\obj\Debug\net6.0\Lists_YF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EmilyFixico\source\repos\Lists_YF\Lists_YF\obj\Debug\net6.0\Lists_YF.AssemblyInfoInputs.cache
+C:\Users\EmilyFixico\source\repos\Lists_YF\Lists_YF\obj\Debug\net6.0\Lists_YF.AssemblyInfo.cs
+C:\Users\EmilyFixico\source\repos\Lists_YF\Lists_YF\obj\Debug\net6.0\Lists_YF.csproj.CoreCompileInputs.cache
+C:\Users\EmilyFixico\source\repos\Lists_YF\Lists_YF\obj\Debug\net6.0\Lists_YF.dll
+C:\Users\EmilyFixico\source\repos\Lists_YF\Lists_YF\obj\Debug\net6.0\refint\Lists_YF.dll
+C:\Users\EmilyFixico\source\repos\Lists_YF\Lists_YF\obj\Debug\net6.0\Lists_YF.pdb
+C:\Users\EmilyFixico\source\repos\Lists_YF\Lists_YF\obj\Debug\net6.0\Lists_YF.genruntimeconfig.cache
+C:\Users\EmilyFixico\source\repos\Lists_YF\Lists_YF\obj\Debug\net6.0\ref\Lists_YF.dll
